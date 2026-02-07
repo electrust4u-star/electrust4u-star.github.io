@@ -523,7 +523,7 @@ body {
     background-image: url("background-img3.png");
     background-size:  110%; /* lebih besar agar crop terlihat */
     background-position: center 10%;
-    min-height: 80vh;
+    min-height: 60vh;
   }
 
   .hero-left {
@@ -559,5 +559,6 @@ body {
     margin-top: 25px;
   }
 }
+
 
 
